@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursorShake", "CursorShake\CursorShake.csproj", "{71124B19-11B5-4BD4-9857-5C083CF0ACAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71124B19-11B5-4BD4-9857-5C083CF0ACAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71124B19-11B5-4BD4-9857-5C083CF0ACAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71124B19-11B5-4BD4-9857-5C083CF0ACAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71124B19-11B5-4BD4-9857-5C083CF0ACAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AE14271-E0BC-4111-9693-683EEB379F2B}
+	EndGlobalSection
+EndGlobal
